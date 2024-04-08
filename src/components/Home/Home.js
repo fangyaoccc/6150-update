@@ -15,7 +15,7 @@ function Home() {
           <Row>
             <Col md={8} className="home-header">
               <h1 calssName="heading">
-                Welcome to <span className="purple">TEA Alley</span>
+                Welcome to <span className="purple">TEAhi Alley</span>
               </h1>
               <h2 className="heading-name">
                 This is for the welcome message h2
